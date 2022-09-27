@@ -1,1 +1,8 @@
-touch up_to_date
+git pull
+git push
+git commit -m "This is your commit messages"
+git branch
+git checkout "your preferred branch"
+git branch "add your new branch"
+git pull --rebase origin master 
+git push -u origin master
